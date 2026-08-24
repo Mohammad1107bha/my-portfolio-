@@ -11,10 +11,17 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
 <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
+  <img  src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
+  <img 
+src="https://jsdelivr.net" alt="Microsoft Excel" width="50"/>
+<img  
+src="https://vectorlogo.zone" alt="Google Sheets" width="50"/>
+<img 
+src="https://jsdelivr.net" alt="Power BI" width="50"/>
+
+
+
 
 </div>
 
