@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate AIML & DATA ENGINEER from india</h3>
+<h3 align="center">A Aspiring Data Analytics from india </h3>
 <p align="center">A Aspiring Data Analytics from india </h3>
 I am fascinated by how data working 🌐 builds and manages systems that collect, clean, and move raw data from various sources into centralized warehouses; create reliable pipelines using tools like SQL and Python  💻   🛠️</p>
 <p align="center"> 
