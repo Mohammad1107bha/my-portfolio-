@@ -17,11 +17,6 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
   <img  src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
   <img 
-src="https://jsdelivr.net" alt="Microsoft Excel" width="50"/>
-<img  
-src="https://vectorlogo.zone" alt="Google Sheets" width="50"/>
-<img 
-src="https://jsdelivr.net" alt="Power BI" width="50"/>
 
 
 
