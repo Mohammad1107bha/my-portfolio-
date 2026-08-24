@@ -69,7 +69,7 @@ src="excel.svg" alt="Microsoft Excel" width="50"/>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,py,fastapi," />
+    <img src="https://skillicons.dev/icons?i=,py," />
   </a>
 </p>
 
