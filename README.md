@@ -8,9 +8,7 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
 </div>
 
-<img 
-src="excel.svg" alt="Microsoft Excel" width="50"/>
-
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <br>
 
