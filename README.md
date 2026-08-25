@@ -84,19 +84,13 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
-- [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
-- [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
-- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
-- [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-- [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-- [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
-- [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
-- [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
-- [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-- [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
----
+- [Project 1: Retail-Sales-Analysis-SQL-Project](https://github.com/Mohammad1107bha/Retail-Sales-Analysis-SQL-Project.git)
+- [Project 2: Retail-exploratory-data-analysis-Python-SQL-main](https://github.com/Mohammad1107bha/Retail-exploratory-data-analysis-Python-SQL-main.git)
+- [Project 3: Descriptive-and-Predictive-Analysis-with-Interactive-Dashboard](https://github.com/Mohammad1107bha/Descriptive-and-Predictive-Analysis-with-Interactive-Dashboard.git)
+- [Project 4: SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git)
+- [Project 5: Ecommerce_Sales_Dashboard_PowerBI
+](https://github.com/Mohammad1107bha/Ecommerce_Sales_Dashboard_PowerBI.git)
+
                                                                                          
                                                                                      C
 
