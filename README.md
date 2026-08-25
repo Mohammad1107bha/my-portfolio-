@@ -96,7 +96,6 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## [Project 1: Retail-Sales-Analysis-SQL-Project](https://github.com/Mohammad1107bha/Retail-Sales-Analysis-SQL-Project.git)
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
-
 ## [Project 2: Retail-exploratory-data-analysis-Python-SQL-main](https://github.com/Mohammad1107bha/Retail-exploratory-data-analysis-Python-SQL-main.git)
 Walmart, as one of the world’s leading retail giants, faces an ongoing challenge to understand and respond effectively to customer needs and market trends. As a business that operates across various cities and branches, Walmart’s ability to manage inventory, optimize staffing, and refine marketing strategies is essential to maintain profitability and customer satisfaction.
 
@@ -113,7 +112,6 @@ Features
 #Identifying the most popular product categories
 #Determining revenue generation trends over time
 #Interactive visualizations using Plotly
-
 ## [Project 4: SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git)
  Business Problem
 ShopMart, an e-commerce platform is experiencing operational challenges related to sales performance, customer behavior, and inventory management. Despite having a large and diverse customer base, with over 20,000 sales records and 10,000 products, the business has faced several key issues that are limiting growth. These include inconsistent product restocking, high return rates in certain categories, shipping delays, and increasing customer acquisition costs without a proportional increase in customer retention. ShopMart’s Senior Executive leadership team is seeking insights into how they can optimize their operations and improve overall profitability.
@@ -126,6 +124,5 @@ Identifying top and underperforming products
 Segmenting customer behavior
 Improving inventory management processes
 Complex SQL queries, including the use of window functions, Common Table Expressions (CTEs), complex joins, query optimization techniques, and stored procedures, were employed to tackle business problems such as revenue analysis, customer segmentation, inventory stock alerts, and shipping performance. Additionally, this analysis will involve data cleaning, managing missing values, and structuring queries to solve real-world business problems.
-
 ## [Project 5: Ecommerce_Sales_Dashboard_PowerBI](https://github.com/Mohammad1107bha/Ecommerce_Sales_Dashboard_PowerBI.git)
 This dashboard provides an overview of eCommerce sales data, highlighting key metrics like total sales, profit, and Average Order Value(AOV). It visualizes top-performing states, customers, product categories, payment mode preferences, and monthly profit/loss trends. It helps in tracking sales performance and customer behavior for strategic decision-making.
