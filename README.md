@@ -52,39 +52,6 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,py," />
-  </a>
-</p>
-
-
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,mysql," />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,aws," />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode," />
-  </a>
-</p>
-
-<br/>
 
 # Data Analytics Portfolio Projects 
 
