@@ -79,7 +79,8 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br 
 
 ## Table of Contents
 
@@ -98,8 +99,6 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
                                                                                          
                                                                                      C
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br 
 
 
 [![](https://komarev.com/ghpvc/?username=Mohammad1107bha&icon=0&color=0)](https://visitcount.itsvg.in)
