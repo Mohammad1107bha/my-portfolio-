@@ -126,3 +126,11 @@ Improving inventory management processes
 Complex SQL queries, including the use of window functions, Common Table Expressions (CTEs), complex joins, query optimization techniques, and stored procedures, were employed to tackle business problems such as revenue analysis, customer segmentation, inventory stock alerts, and shipping performance. Additionally, this analysis will involve data cleaning, managing missing values, and structuring queries to solve real-world business problems.
 ## [Project 5: Ecommerce_Sales_Dashboard_PowerBI](https://github.com/Mohammad1107bha/Ecommerce_Sales_Dashboard_PowerBI.git)
 This dashboard provides an overview of eCommerce sales data, highlighting key metrics like total sales, profit, and Average Order Value(AOV). It visualizes top-performing states, customers, product categories, payment mode preferences, and monthly profit/loss trends. It helps in tracking sales performance and customer behavior for strategic decision-making.
+
+
+## Contact Information
+
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [skchandmohammad1107@gmail.com) or connect with me on LinkedIn at [Shaik Chand Mohammad](https://www.linkedin.com/in/
+shaik-chand-mohammad-b289b2428).
+
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
