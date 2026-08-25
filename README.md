@@ -9,7 +9,9 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
 </div>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" center align/> </a> </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+ <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <br>
 
