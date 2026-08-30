@@ -74,7 +74,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Retail-Sales-Analysis-SQL-Project](https://github.com/Mohammad1107bha/Retail-Sales-Analysis-SQL-Project.git)
-- [Project 2: Retail-exploratory-data-analysis-Python-SQL-main](https://github.com/Mohammad1107bha/Retail-exploratory-data-analysis-Python-SQL-  main.git)
+- [Project 2: Retail-exploratory-data-analysis-Python-SQL-main](https://github.com/Mohammad1107bha/Retail-exploratory-data-analysis-Python-SQL-main.git)
 - [Project 3: Descriptive-and-Predictive-Analysis-with-Interactive-Dashboard](https://github.com/Mohammad1107bha/Descriptive-and-Predictive-Analysis-with-Interactive-Dashboard.git)
 - [Project 4: SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git)
 - [Project 5: Ecommerce_Sales_Dashboard_PowerBI
