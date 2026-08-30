@@ -36,16 +36,10 @@ I am fascinated by how data working 🌐 builds and manages systems that collect
 
 
 
-
-
-<!-- Snake Game Repo View -->
-
+<!-- Real Live Snake Game Animation -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com" alt="GitHub Snake Game" />
 </div>
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
 
 # Data Analytics Portfolio Projects 
 
